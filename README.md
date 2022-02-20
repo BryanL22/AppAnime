@@ -1,6 +1,6 @@
 # AppAnime
 
-Proyecto creado para la prueba tecnica de la empresa Farmatodo, en el que consiste en una aplicación movil con información detallada de animes 
+Proyecto creado para la prueba tecnica de la empresa Farmatodo, el cual consiste en una aplicación movil con información detallada de animes 
 
 
 
